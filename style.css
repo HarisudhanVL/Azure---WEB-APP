@@ -1,0 +1,86 @@
+*{
+	font-family: Montserrat;
+}
+
+/*styling navigation bar*/
+.Navtitle{
+	font-family: Nosifer;
+}
+
+.AboutUs{
+	margin-top: 50px;
+	margin-left: 200px;
+	margin-right: 200px;
+}
+
+h3{
+	margin-top: 20px;
+	text-align: center;
+}
+
+h2{
+	font-family: Ranchers;
+}
+
+.box{
+	width: 35%
+}
+.container .content {
+      position: absolute;
+      bottom: 0;
+      background: rgb(0, 0, 0); /* Fallback color */
+      background: rgba(0, 0, 0, 0.5); /* Black background with 0.5 opacity */
+      color: #f1f1f1;
+      width: 55%;
+      padding: 20px;
+      margin-bottom: 550px;
+      margin-left: 450px;
+      opacity: 0.35;
+      text-shadow: 20px 20px 5px black;
+    }
+/*footer*/
+footer{
+	background-color: black;
+	color: white;
+	text-align: center;
+	padding-top: 20px;
+}
+
+
+
+element.style {
+}
+.form {
+    background: rgba(19, 35, 47, 0.9);
+    padding: 40px;
+    max-width: 600px;
+    margin: 40px auto;
+    border-radius: 4px;
+    box-shadow: 0 4px 10px 4px rgba(19, 35, 47, 0.3);
+}
+
+.form {
+}
+*, *:before, *:after {
+    box-sizing: border-box;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+body {
+    background: #c1bdba;
+    font-family: 'Titillium Web', sans-serif;
+}
+html {
+    font-family: sans-serif;
+    line-height: 1.15;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+}
+*, *:before, *:after {
+    box-sizing: border-box;
+}
+*, *:before, *:after {
+    box-sizing: border-box;
+}
